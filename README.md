@@ -1,18 +1,18 @@
 # BowlingScore
 
-## Problem Description
+### Problem Description
 Create a program, which, given an integer array of a valid sequence of throws for one game of American Ten-Pin Bowling, produces the total score for the game.  Your code will become the core of a bowling score management system, so make sure it’s production-quality.
 Your input should be a string like the examples below.
 
 
-## Stuff that's out of Scope
+### Stuff that's out of Scope
 Here are some things that the program does not need to do (today):
 check for valid throws (like scores that add to 11)
 check for the correct number of throws and frames
 provide any intermediate scores – it only has to provide the final score
 
 
-## The Rules
+### The Rules
 To briefly summarize the scoring for this form of bowling:
 One game of bowling is made up of ten frames.
 In each frame, the bowler has two throws to knock down all the pins.
@@ -30,7 +30,7 @@ These throws count as part of the 10th frame.
 The process does not repeat – for example, knocking down all 10 pins on a bonus throw does not provide any additional bonus throws.
 
 
-## Examples
+### Examples
 
 Input String | Calculated As | Score
 ------------ | -------------- | -----
