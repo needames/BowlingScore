@@ -5,7 +5,7 @@ Create a program, which, given an integer array of a valid sequence of throws fo
 Your input should be a string like the examples below.
 
 
-### Stuff that's out of Scope
+### Stuff That's Out of Scope
 Here are some things that the program does not need to do (today):
 check for valid throws (like scores that add to 11)
 check for the correct number of throws and frames
